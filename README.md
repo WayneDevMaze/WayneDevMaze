@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wayne
-- 👀 I’m interested in fuzzing and game developing.
-- 🌱 I’m currently learning Fuzzing JAVA program.
+- 👀 I’m interested in Fuzzing and Game Developing.
+- 🌱 Fuzzing JAVA program.
 
 <!---
 WayneDevMaze/WayneDevMaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
